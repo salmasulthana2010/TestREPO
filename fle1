@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage('Checkout') {
+      b,mnm;//.,/.lkjhg  stage('Checkout') {
             steps {
                 git 'https://github.com/your-username/your-repo.git'
             }
